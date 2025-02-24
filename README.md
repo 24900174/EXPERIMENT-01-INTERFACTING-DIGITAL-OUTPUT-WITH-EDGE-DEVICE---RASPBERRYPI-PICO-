@@ -44,7 +44,7 @@ while True:
     sleep(0.5)
     led3.toggle()
     sleep(0.5)
-
+```
 ```
 from machine import Pin
 from utime import sleep
