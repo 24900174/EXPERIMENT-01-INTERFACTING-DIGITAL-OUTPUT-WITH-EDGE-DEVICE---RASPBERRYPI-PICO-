@@ -68,9 +68,10 @@ while True:
     sleep(0.5)
 ```
 
-## OUPUT  
+## OUPUT
+![Screenshot 2025-02-24 112856](https://github.com/user-attachments/assets/67c1a49e-6420-4cb8-8752-ab0050f74799)  
 ![Screenshot 2025-02-24 112001](https://github.com/user-attachments/assets/1b1e537c-f1b0-4ead-80d5-dcd369eba1a5)
-![Screenshot 2025-02-24 112856](https://github.com/user-attachments/assets/67c1a49e-6420-4cb8-8752-ab0050f74799)
+
 
 
 
